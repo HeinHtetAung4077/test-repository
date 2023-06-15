@@ -1,3 +1,3 @@
-# test-repository
+# My very first Repo
 
-This is from VS code
+I changed this in GitHub
